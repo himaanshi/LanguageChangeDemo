@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भाषाबदलेंडेमो</string>
+
+    <string name="home">गृह गतिविधि</string>
+    <string name="settings_label">सेटिंग्स</string>
+    <string name="settings_tips">" कृपया अपनी भाषा चुनेंं"</string>
+    <string name="hindi">हिंदी</string>
+    <string name="french">फ्रेंच</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="dummy_text">"Lorem Ipsum छपाई और अक्षर योजन उद्योग का एक साधारण डमी पाठ है. Lorem Ipsum सन १५०० के बाद से अभी तक इस उद्योग का मानक डमी पाठ मन गया, जब एक अज्ञात मुद्रक ने नमूना लेकर एक नमूना किताब बनाई. "</string>
+
+
+</resources>

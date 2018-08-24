@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageChangeDemo</string>
+    <string name="settings_label">Paramètres</string>
+    <string name="settings_tips">S\'il vous plaît Choisissez votre langue</string>
+    <string name="english">Anglais</string>
+    <string name="home">Activité à la maison</string>
+    <string name="french">français</string>
+    <string name="hindi">Hindi</string>
+    <string name="dummy_text">EnLorem Ipsum est simplement un texte factice de l\'industrie de l\'impression et de la composition. Lorem Ipsum est le texte factice standard de l\'industrie depuis les années 1500, lorsqu\'une imprimante inconnue a pris une galère de type et l\'a brouillée pour en faire un spécimen de livre.</string>
+</resources>

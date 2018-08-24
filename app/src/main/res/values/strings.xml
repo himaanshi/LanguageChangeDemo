@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LanguageChangeDemo</string>
+
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="home">Home Activity</string>
+    <string name="french">French</string>
+    <string name="settings_label">Settings</string>
+    <string name="settings_tips">"Please choose your language "</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry standard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+    </string>
+</resources>
